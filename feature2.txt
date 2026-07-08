@@ -1,1 +1,4 @@
 feature2 branch by feature branch
+feature2 branch by feature branch
+this is  a reset branch head
+for the charipick
